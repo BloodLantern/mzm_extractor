@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MzmExtractor": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\m.grimardhamel\\Documents\\mzm\\mzm"
+    }
+  }
+}
